@@ -2,7 +2,7 @@
 
 # Details
 Each Semester has the following details:
-1. YouTube Playlist Links for Contact Sessions
+1. YouTube Playlist Links for Contact Sessions (Private Mode)
 2. WhatsApp Group Links
 
 # Semesters
