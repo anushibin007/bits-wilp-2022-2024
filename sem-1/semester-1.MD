@@ -13,3 +13,6 @@
 |Advanced Computer Networks *|?|[Click here](https://chat.whatsapp.com/Ls7gbS81MdH6Nq34kQu9TQ)|
 
 \* I do not learn these subjects. I have just added as much detail as possible for these subjects.
+
+# More details
+If you directly landed on this page, please check the main [README](../README.md) file too.
