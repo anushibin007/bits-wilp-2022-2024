@@ -1,6 +1,6 @@
 # Links
-|Subject|YouTube Playlist Link|WhatsApp Group Link|
-|-------|---------------------|-------------------|
+|Subject|YouTube Playlist Link (Private)|WhatsApp Group Link|
+|-------|-------------------------------|-------------------|
 |Distributed Computing (S1-22_SSZG526)|[Click here](https://github.com/anushibin007/bits-wilp-2022-2024-private/blob/master/sem-1/semester-1.MD)|[Click here](https://chat.whatsapp.com/DZMijyRwkfk2dODLbk4Mqi)|
 |Database Design and Applications (Merged - CSIZG518/SEZG518/SSZG518)(S1-22)|[Click here](https://github.com/anushibin007/bits-wilp-2022-2024-private/blob/master/sem-1/semester-1.MD)|[Click here](https://chat.whatsapp.com/ILGHNLO8By45N8E5kosi36)|
 |Data Structures and Algorithms Design (Merged - SEZG519/SSZG519)(S1-22)|[Click here](https://github.com/anushibin007/bits-wilp-2022-2024-private/blob/master/sem-1/semester-1.MD)|[Click here](https://chat.whatsapp.com/Lkqg5YkH0cqAHDaTuGoBZE)|
