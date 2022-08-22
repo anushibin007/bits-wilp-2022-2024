@@ -1,4 +1,7 @@
-# bits-wilp-2022-2024
+# BITS Pilani WILP Cheatsheet 2022-2024 Batch
+
+# About Me
+M.Tech Software Systems 2022 - 2024 Batch with specialization in IoT
 
 # YouTube Playlists of Contact Sessions
 |Subject|YouTube Playlist Link|
