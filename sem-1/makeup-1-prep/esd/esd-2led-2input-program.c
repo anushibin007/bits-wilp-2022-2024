@@ -29,19 +29,19 @@ int main()
         if (!(IOPIN0 & 0x1))
         {
             /* Turn on LED1(P0.4) & LED2(P0.5) */
-            /* Also, unpress SWITCH1(P0.0) to avoid 2 switches being pressed at the same time*/
-            /* 0000000000110001 (Bin) = 0x31 (Hex) */
-            IOSET0 = 0x31;
+            /* Also, unpress SWITCH2(P0.0) to avoid 2 switches being pressed at the same time*/
+            /* 0000000000110010 (Bin) = 0x32 (Hex) */
+            IOSET0 = 0x32;
         }
 
-        /* If SWITCH1(P0.1) is closed & pressed, pin is LOW */
+        /* If SWITCH2(P0.1) is closed & pressed, pin is LOW */
         /* 0000000000000010 (Bin) = 0x2 (Hex) */
         if (!(IOPIN0 & 0x2))
         {
             /* Turn off LED1(P0.4) & LED2(P0.5) */
-            /* Also, unpress SWITCH2(P0.1) to avoid 2 switches being pressed at the same time*/
-            /* 0000000000110010 (Bin) = 0x32 (Hex) */
-            IOCLR0 = 0x32;
+            /* Also, unpress SWITCH1(P0.0) to avoid 2 switches being pressed at the same time*/
+            /* 0000000000110000 (Bin) = 0x30 (Hex) */
+            IOCLR0 = 0x30;
         }
     }
 }
