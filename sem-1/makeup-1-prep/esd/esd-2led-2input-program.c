@@ -26,7 +26,7 @@ int main()
     {
         /* If SWITCH1(P0.0) is closed & pressed, pin is LOW */
         /* 00000000000000000000000000000001 (Bin) = 0x1 (Hex) */
-        if (!IOPIN0 & 0x1)
+        if (!(IOPIN0 & 0x1))
         {
             /* Turn on LED1(P0.4) & LED2(P0.5) */
             /* Also, unpress SWITCH1(P0.0) to avoid 2 switches being pressed at the same time*/
@@ -36,7 +36,7 @@ int main()
 
         /* If SWITCH1(P0.1) is closed & pressed, pin is LOW */
         /* 00000000000000000000000000000010 (Bin) = 0x2 (Hex) */
-        if (!IOPIN0 & 0x2)
+        if (!(IOPIN0 & 0x2))
         {
             /* Turn off LED1(P0.4) & LED2(P0.5) */
             /* Also, unpress SWITCH2(P0.1) to avoid 2 switches being pressed at the same time*/
